@@ -1,2 +1,6 @@
-# Image-processing-for-brain-tumor-with-GUI-
-An image processing system to detect brain tumor and classify it with interactive graphics user interface
+# image-procesing-to-detect-brain-tumor-and-aneurysm
+A matlab project to detect brain disease (Brain tumor ) and neural disease (Aneurysm).
+
+
+RUN THE SRP.M MATLAB CODE 
+OTHER FILES ARE INTERNALLY CALLED
